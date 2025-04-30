@@ -139,3 +139,9 @@ Os testes cobrem:
 ## 📝 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
+
+## 👨‍💻 Autor
+
+- **Maxwell Viana** - Desenvolvedor
+- Email: [vmaxbh@gmail.com]
+
